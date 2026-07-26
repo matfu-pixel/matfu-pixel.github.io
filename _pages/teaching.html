@@ -8,5 +8,16 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.githuburl }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <div class="archive__item-excerpt" itemprop="description">{{ post.content }}</div>
+      <p>
+        <a href="{{ post.githuburl }}">GitHub</a>{% if post.youtubeurl %} | <a href="{{ post.youtubeurl }}">YouTube</a>{% endif %}
+      </p>
+    </article>
+  </div>
 {% endfor %}

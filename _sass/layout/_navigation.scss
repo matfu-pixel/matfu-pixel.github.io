@@ -204,13 +204,13 @@
 
   .visible-links {
     display: table;
+    margin: 0 auto;
 
     li {
       display: table-cell;
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
         text-wrap: wrap;
 
         a {

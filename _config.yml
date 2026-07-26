@@ -23,13 +23,13 @@ repository               : "matfu-pixel/matfu-pixel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Artem Matveev"
   pronouns         : # example: "she/her"
   bio              : "Senior Research Scientist working on recommender systems, generative retrieval, and reinforcement learning."
   location         : "Moscow, Russia"
   employer         : "AI VK"
-  uri              : "https://matfu-pixel.github.io"
+  uri              : # removed "Website" link from sidebar (we're already on the site)
   email            : "matfu21@yandex.ru"
 
   # Academic websites
@@ -66,7 +66,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "artmatman50"
   lastfm           : # Username
   linkedin         : "artem-matveev-7b2725255"
   mastodon         : # URL
@@ -220,8 +220,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   publications:
     output: true
     permalink: /:collection/:path/

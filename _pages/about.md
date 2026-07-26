@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 I am a research scientist and engineer with 4+ years of experience in recommender
-systems, with accepted papers at **KDD**, **SIGIR**, and **RecSys**. I am currently a
-**Senior Research Scientist at [AI VK](https://vk.com)**, working in the research team
+systems, with accepted papers at KDD, SIGIR, and RecSys. I am currently a
+Senior Research Scientist at AI VK, working in the research team
 led by [Prof. Dr. Alexander D'yakonov](https://www.kaggle.com/dyakonov), formerly the
 world's #1 ranked competitor on Kaggle.
 
-I hold a B.Sc. in Applied Mathematics and Computer Science from **Lomonosov Moscow State
-University (MSU)** and I am an M.Sc. candidate in Modern Computer Science at the **Higher
-School of Economics (HSE)**, as well as a student of the selective **Yandex School of
-Data Analysis (YSDA)** program.
+I hold a B.Sc. in Applied Mathematics and Computer Science from Lomonosov Moscow State
+University (MSU) and I am an M.Sc. candidate in Modern Computer Science at the Higher
+School of Economics (HSE), as well as a student of the selective Yandex School of
+Data Analysis (YSDA) program.
 
-Previously, at **Yandex**, I led a three-person R&D team responsible for pretraining
+Previously, at Yandex, I led a three-person R&D team responsible for pretraining
 large-scale generative recommendation models, internal training-framework development,
 and inference optimization. I co-developed
 [Argus](https://arxiv.org/abs/2507.15994), a billion-parameter generative recommender
@@ -42,6 +42,7 @@ You can reach me by [email](mailto:matfu21@yandex.ru) or find me on
 [LinkedIn](https://www.linkedin.com/in/artem-matveev-7b2725255),
 [Telegram](https://t.me/matfu21),
 [X / Twitter](https://twitter.com/ArtemMatve35816),
+[Instagram](https://www.instagram.com/artmatman50/),
 [Kaggle](https://www.kaggle.com/dogrose), and
 [Codeforces](https://codeforces.com/profile/matfu?locale=ru).
 My [CV](/files/cv.pdf) is available as a PDF.
