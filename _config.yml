@@ -88,6 +88,8 @@ author:
 publication_category:
   conferences:
     title: 'Selected Publications'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
